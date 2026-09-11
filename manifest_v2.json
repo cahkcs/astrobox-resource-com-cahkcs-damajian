@@ -1,0 +1,85 @@
+{
+  "item": {
+    "id": "com.cahkcs.damajian",
+    "restype": "quick_app",
+    "name": "麻将小游戏",
+    "description": "本游戏支持大众麻将,四川麻将(血流成河),广东麻将(珠三角),贵州麻将(捉鸡)，内置商城以及设置模块。",
+    "preview": [
+      "media/xiaomi_band_pro-2026-09-05-11-40-12.png",
+      "media/xiaomi_band_pro-2026-09-05-11-40-46.png",
+      "media/xiaomi_band_pro-2026-09-05-11-41-31.png",
+      "media/xiaomi_band_10-2026-09-05-19-32-58.png",
+      "media/xiaomi_band_10-2026-09-05-19-33-22.png"
+    ],
+    "icon": "media/logo.png",
+    "cover": "media/ChatGPT Image 2026年9月11日 23_28_57 (1).png",
+    "author": [
+      {
+        "name": "cahkcs",
+        "bindABAccount": true
+      }
+    ]
+  },
+  "links": [
+    {
+      "title": "官网",
+      "url": "https://mi.steam.cab/",
+      "icon": "SoundcloudLogo"
+    }
+  ],
+  "downloads": {
+    "xmrw5": {
+      "version": "1.5.0",
+      "file_name": "downloads/麻将_通用1.5.0.rpk",
+      "versionCode": 10
+    },
+    "xmrw5xring": {
+      "version": "1.5.0",
+      "file_name": "downloads/麻将_通用1.5.0.rpk",
+      "versionCode": 10
+    },
+    "xmrw6": {
+      "version": "1.5.0",
+      "file_name": "downloads/麻将_通用1.5.0.rpk",
+      "versionCode": 10
+    },
+    "xmb10p": {
+      "version": "1.5.0",
+      "file_name": "downloads/麻将_通用1.5.0.rpk",
+      "versionCode": 10
+    },
+    "xmb9p": {
+      "version": "1.5.0",
+      "file_name": "downloads/麻将_通用1.5.0.rpk",
+      "versionCode": 10
+    },
+    "xmb10": {
+      "version": "1.5.0",
+      "file_name": "downloads/麻将-米环1.5.0.rpk",
+      "versionCode": 10
+    },
+    "xmb10nfc": {
+      "version": "1.5.0",
+      "file_name": "downloads/麻将-米环1.5.0.rpk",
+      "versionCode": 10
+    },
+    "xmb11": {
+      "version": "1.5.0",
+      "file_name": "downloads/麻将-米环1.5.0.rpk",
+      "versionCode": 10
+    },
+    "xmb11nfc": {
+      "version": "1.5.0",
+      "file_name": "downloads/麻将-米环1.5.0.rpk",
+      "versionCode": 10
+    },
+    "xmb9": {
+      "version": "1.5.3",
+      "file_name": "downloads/麻将_米环_文字优化版1.5.3.rpk",
+      "versionCode": 13
+    }
+  },
+  "ext": {
+    "enableAstroBoxCreatorFeatures": true
+  }
+}
