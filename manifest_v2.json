@@ -25,6 +25,11 @@
       "title": "官网",
       "url": "https://mi.steam.cab/",
       "icon": "soundcloud-logo"
+    },
+    {
+      "title": "【爱发电购买】",
+      "url": "https://afdian.com/item/d4024d4272da11f0bb7d52540025c377?utm_source=copylink&utm_medium=link",
+      "icon": "download"
     }
   ],
   "downloads": {
@@ -140,7 +145,6 @@
     }
   },
   "ext": {
-    "enableAstroBoxCreatorFeatures": true,
     "bundledResources": {
       "recommended": [
         {
